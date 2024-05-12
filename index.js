@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Бот разработан для UnerCraft by miwysik"];
 
 
 let currentIndex = 0;
