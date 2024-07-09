@@ -26,7 +26,7 @@ const client = new Client({
   }),
 });
 const app = express();
-const port = 101;
+const port = 3000;
 app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
